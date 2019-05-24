@@ -1,7 +1,6 @@
 from sklearn import datasets 
 from sklearn.metrics import confusion_matrix 
 from sklearn.model_selection import train_test_split
-
 from sklearn.tree import DecisionTreeClassifier 
 from sklearn.preprocessing import LabelEncoder
 from keras.utils import np_utils

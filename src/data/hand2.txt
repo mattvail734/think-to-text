@@ -1,0 +1,511 @@
+  [21/ 5/2019 09:22:17:446]: EEG Bandpower: Delta: 2.2928 Theta: 11.5764 Alpha: 9.1833 Beta: 4.4196 Gamma: 1.1011
+
+  [21/ 5/2019 09:22:18:474]: EEG Bandpower: Delta: 3.3587 Theta: 11.8098 Alpha: 10.1030 Beta: 4.8913 Gamma: 1.3038
+
+  [21/ 5/2019 09:22:19:412]: EEG Bandpower: Delta: 3.8505 Theta: 12.2721 Alpha: 9.7972 Beta: 5.6567 Gamma: 1.3869
+
+  [21/ 5/2019 09:22:20:408]: EEG Bandpower: Delta: 4.9481 Theta: 13.8414 Alpha: 9.6264 Beta: 5.4056 Gamma: 1.7262
+
+  [21/ 5/2019 09:22:21:425]: EEG Bandpower: Delta: 3.6499 Theta: 13.0068 Alpha: 7.8782 Beta: 4.4646 Gamma: 1.7801
+
+  [21/ 5/2019 09:22:22:406]: EEG Bandpower: Delta: 3.9456 Theta: 12.3563 Alpha: 6.3354 Beta: 3.9438 Gamma: 0.7855
+
+  [21/ 5/2019 09:22:23:445]: EEG Bandpower: Delta: 3.2091 Theta: 12.0785 Alpha: 6.7256 Beta: 3.7059 Gamma: 0.5173
+
+  [21/ 5/2019 09:22:24:414]: EEG Bandpower: Delta: 2.6462 Theta: 8.7940 Alpha: 6.6176 Beta: 2.6628 Gamma: -0.2425
+
+  [21/ 5/2019 09:22:25:506]: EEG Bandpower: Delta: 1.8776 Theta: 7.8018 Alpha: 5.9708 Beta: 1.9024 Gamma: -0.1245
+
+  [21/ 5/2019 09:22:26:447]: EEG Bandpower: Delta: 1.7587 Theta: 7.9474 Alpha: 6.1375 Beta: 2.4007 Gamma: -0.1187
+
+  [21/ 5/2019 09:22:27:438]: EEG Bandpower: Delta: 1.4851 Theta: 7.7610 Alpha: 4.7345 Beta: 1.1095 Gamma: -0.4701
+
+  [21/ 5/2019 09:22:28:460]: EEG Bandpower: Delta: 1.5929 Theta: 8.1441 Alpha: 5.1864 Beta: 0.4814 Gamma: -0.4872
+
+  [21/ 5/2019 09:22:29:491]: EEG Bandpower: Delta: 0.2923 Theta: 7.6092 Alpha: 4.0829 Beta: 0.0498 Gamma: -0.4679
+
+  [21/ 5/2019 09:22:30:461]: EEG Bandpower: Delta: 0.0987 Theta: 6.3294 Alpha: 3.8847 Beta: 0.7969 Gamma: -0.0060
+
+  [21/ 5/2019 09:22:31:415]: EEG Bandpower: Delta: -1.7402 Theta: 5.9105 Alpha: 3.8814 Beta: -0.0968 Gamma: -0.5570
+
+  [21/ 5/2019 09:22:32:437]: EEG Bandpower: Delta: -1.6352 Theta: 5.6255 Alpha: 4.3474 Beta: 0.8377 Gamma: 0.0787
+
+  [21/ 5/2019 09:22:33:406]: EEG Bandpower: Delta: 0.9613 Theta: 7.0122 Alpha: 6.0532 Beta: 3.5949 Gamma: 0.6689
+
+  [21/ 5/2019 09:22:34:427]: EEG Bandpower: Delta: 1.7665 Theta: 7.2225 Alpha: 6.2131 Beta: 2.8621 Gamma: -0.0166
+
+  [21/ 5/2019 09:22:35:404]: EEG Bandpower: Delta: 1.6232 Theta: 7.7926 Alpha: 5.9577 Beta: 2.6533 Gamma: -0.2585
+
+  [21/ 5/2019 09:22:36:465]: EEG Bandpower: Delta: 1.8731 Theta: 7.5410 Alpha: 5.4430 Beta: 3.0030 Gamma: -1.0473
+
+  [21/ 5/2019 09:22:37:425]: EEG Bandpower: Delta: 1.6960 Theta: 6.6560 Alpha: 5.0488 Beta: 1.5644 Gamma: -0.9650
+
+  [21/ 5/2019 09:22:38:449]: EEG Bandpower: Delta: -1.2748 Theta: 7.1934 Alpha: 7.3812 Beta: 1.6700 Gamma: -1.2685
+
+  [21/ 5/2019 09:22:39:429]: EEG Bandpower: Delta: -1.0456 Theta: 7.7104 Alpha: 8.4989 Beta: 2.1850 Gamma: -0.6555
+
+  [21/ 5/2019 09:22:40:451]: EEG Bandpower: Delta: -1.5637 Theta: 9.5638 Alpha: 8.7885 Beta: 2.5197 Gamma: -0.1274
+
+  [21/ 5/2019 09:22:41:415]: EEG Bandpower: Delta: 4.8358 Theta: 10.7907 Alpha: 8.8641 Beta: 2.3532 Gamma: 0.1594
+
+  [21/ 5/2019 09:22:42:450]: EEG Bandpower: Delta: 5.2095 Theta: 10.9736 Alpha: 8.6009 Beta: 1.4544 Gamma: -1.0744
+
+  [21/ 5/2019 09:22:43:449]: EEG Bandpower: Delta: 5.9164 Theta: 10.9032 Alpha: 6.9694 Beta: 0.9069 Gamma: -0.8429
+
+  [21/ 5/2019 09:22:44:415]: EEG Bandpower: Delta: 6.0292 Theta: 10.4020 Alpha: 7.1385 Beta: 1.7035 Gamma: 1.0938
+
+  [21/ 5/2019 09:22:45:479]: EEG Bandpower: Delta: 4.6055 Theta: 9.0792 Alpha: 6.2557 Beta: 1.3757 Gamma: 1.0943
+
+  [21/ 5/2019 09:22:46:462]: EEG Bandpower: Delta: 5.0628 Theta: 10.6204 Alpha: 6.9268 Beta: 2.4112 Gamma: 1.7706
+
+  [21/ 5/2019 09:22:47:403]: EEG Bandpower: Delta: 5.1919 Theta: 9.8239 Alpha: 7.6418 Beta: 2.3384 Gamma: 1.7225
+
+  [21/ 5/2019 09:22:48:425]: EEG Bandpower: Delta: 4.6405 Theta: 10.0951 Alpha: 7.1818 Beta: 1.8910 Gamma: 0.8091
+
+  [21/ 5/2019 09:22:49:406]: EEG Bandpower: Delta: 4.7525 Theta: 9.8889 Alpha: 5.1099 Beta: 0.9901 Gamma: -1.6364
+
+  [21/ 5/2019 09:22:50:449]: EEG Bandpower: Delta: 2.3182 Theta: 9.6944 Alpha: 5.4328 Beta: 0.9458 Gamma: -1.5670
+
+  [21/ 5/2019 09:22:51:456]: EEG Bandpower: Delta: 1.5401 Theta: 9.7035 Alpha: 5.8459 Beta: 1.8507 Gamma: -1.6577
+
+  [21/ 5/2019 09:22:52:481]: EEG Bandpower: Delta: 1.4852 Theta: 8.8038 Alpha: 6.2246 Beta: 2.8152 Gamma: -0.3118
+
+  [21/ 5/2019 09:22:53:432]: EEG Bandpower: Delta: 1.1735 Theta: 9.4060 Alpha: 6.0338 Beta: 2.3160 Gamma: 0.3844
+
+  [21/ 5/2019 09:22:54:405]: EEG Bandpower: Delta: 0.9992 Theta: 11.3590 Alpha: 6.4952 Beta: 3.4377 Gamma: 0.3259
+
+  [21/ 5/2019 09:22:55:493]: EEG Bandpower: Delta: 1.2494 Theta: 9.7253 Alpha: 5.8580 Beta: 2.3217 Gamma: 0.2477
+
+  [21/ 5/2019 09:22:56:408]: EEG Bandpower: Delta: 2.1205 Theta: 9.2001 Alpha: 4.9884 Beta: 2.0666 Gamma: -0.9647
+
+  [21/ 5/2019 09:22:57:471]: EEG Bandpower: Delta: 2.5046 Theta: 10.5616 Alpha: 6.0113 Beta: 2.3574 Gamma: -0.3600
+
+  [21/ 5/2019 09:22:58:421]: EEG Bandpower: Delta: 3.4766 Theta: 10.7130 Alpha: 7.1597 Beta: 2.4029 Gamma: -0.5599
+
+  [21/ 5/2019 09:22:59:459]: EEG Bandpower: Delta: 6.1715 Theta: 11.4768 Alpha: 10.1015 Beta: 3.4641 Gamma: 0.3024
+
+  [21/ 5/2019 09:23:00:438]: EEG Bandpower: Delta: 5.8880 Theta: 11.2874 Alpha: 11.2505 Beta: 3.7248 Gamma: 0.4734
+
+  [21/ 5/2019 09:23:01:509]: EEG Bandpower: Delta: 5.9210 Theta: 9.7165 Alpha: 12.0157 Beta: 3.0462 Gamma: -0.9327
+
+  [21/ 5/2019 09:23:02:450]: EEG Bandpower: Delta: 5.7155 Theta: 9.9859 Alpha: 12.4580 Beta: 2.9483 Gamma: -1.1561
+
+  [21/ 5/2019 09:23:03:412]: EEG Bandpower: Delta: 3.3279 Theta: 9.1110 Alpha: 11.4469 Beta: 2.4148 Gamma: -1.9592
+
+  [21/ 5/2019 09:23:04:463]: EEG Bandpower: Delta: 3.1310 Theta: 9.6622 Alpha: 11.5567 Beta: 2.4129 Gamma: -2.8476
+
+  [21/ 5/2019 09:23:05:410]: EEG Bandpower: Delta: 4.3722 Theta: 10.3508 Alpha: 11.9842 Beta: 1.8171 Gamma: -3.2971
+
+  [21/ 5/2019 09:23:06:448]: EEG Bandpower: Delta: 5.1942 Theta: 11.2842 Alpha: 12.3612 Beta: 1.9709 Gamma: -2.1878
+
+  [21/ 5/2019 09:23:07:407]: EEG Bandpower: Delta: 6.9817 Theta: 13.0541 Alpha: 11.7393 Beta: 2.0623 Gamma: -0.7773
+
+  [21/ 5/2019 09:23:08:423]: EEG Bandpower: Delta: 7.2990 Theta: 13.5720 Alpha: 11.4251 Beta: 2.0450 Gamma: -0.7352
+
+  [21/ 5/2019 09:23:09:421]: EEG Bandpower: Delta: 6.5655 Theta: 12.8516 Alpha: 9.8663 Beta: 2.5969 Gamma: -1.6496
+
+  [21/ 5/2019 09:23:10:473]: EEG Bandpower: Delta: 4.8954 Theta: 11.7288 Alpha: 9.9631 Beta: 2.6702 Gamma: -1.6844
+
+  [21/ 5/2019 09:23:11:445]: EEG Bandpower: Delta: 4.8873 Theta: 11.4747 Alpha: 9.0331 Beta: 3.1463 Gamma: -1.4571
+
+  [21/ 5/2019 09:23:12:441]: EEG Bandpower: Delta: 3.2334 Theta: 9.7181 Alpha: 9.1723 Beta: 3.2065 Gamma: -1.2472
+
+  [21/ 5/2019 09:23:13:453]: EEG Bandpower: Delta: 2.1866 Theta: 9.2495 Alpha: 9.0680 Beta: 3.5611 Gamma: -1.1420
+
+  [21/ 5/2019 09:23:14:460]: EEG Bandpower: Delta: 3.4517 Theta: 9.1456 Alpha: 9.1798 Beta: 2.8571 Gamma: -1.0185
+
+  [21/ 5/2019 09:23:15:435]: EEG Bandpower: Delta: 2.3811 Theta: 7.0317 Alpha: 9.9317 Beta: 1.1904 Gamma: -2.3644
+
+  [21/ 5/2019 09:23:16:425]: EEG Bandpower: Delta: 3.2061 Theta: 8.4089 Alpha: 9.3485 Beta: 0.5059 Gamma: -2.2464
+
+  [21/ 5/2019 09:23:17:476]: EEG Bandpower: Delta: 4.8458 Theta: 9.5497 Alpha: 9.5145 Beta: 1.9610 Gamma: -0.9419
+
+  [21/ 5/2019 09:23:18:457]: EEG Bandpower: Delta: 4.4813 Theta: 9.4922 Alpha: 9.9202 Beta: 2.5851 Gamma: 0.1847
+
+  [21/ 5/2019 09:23:19:417]: EEG Bandpower: Delta: 3.8375 Theta: 9.6014 Alpha: 9.5932 Beta: 3.2228 Gamma: 0.2473
+
+  [21/ 5/2019 09:23:20:399]: EEG Bandpower: Delta: 3.4301 Theta: 9.7963 Alpha: 9.3654 Beta: 3.3361 Gamma: 0.0104
+
+  [21/ 5/2019 09:23:21:431]: EEG Bandpower: Delta: 3.6869 Theta: 10.2252 Alpha: 10.9803 Beta: 4.2636 Gamma: 1.0898
+
+  [21/ 5/2019 09:23:22:434]: EEG Bandpower: Delta: 2.0057 Theta: 11.8794 Alpha: 10.6807 Beta: 4.3013 Gamma: 0.3701
+
+  [21/ 5/2019 09:23:23:455]: EEG Bandpower: Delta: 2.8361 Theta: 12.6395 Alpha: 11.2748 Beta: 3.9441 Gamma: 0.1291
+
+  [21/ 5/2019 09:23:24:446]: EEG Bandpower: Delta: 3.1967 Theta: 12.2770 Alpha: 11.3514 Beta: 4.1531 Gamma: 0.2787
+
+  [21/ 5/2019 09:23:25:423]: EEG Bandpower: Delta: 2.7902 Theta: 11.6032 Alpha: 10.8287 Beta: 4.0813 Gamma: 0.0021
+
+  [21/ 5/2019 09:23:26:456]: EEG Bandpower: Delta: 1.2948 Theta: 8.7640 Alpha: 10.1253 Beta: 3.0858 Gamma: -1.5215
+
+  [21/ 5/2019 09:23:27:471]: EEG Bandpower: Delta: 0.1866 Theta: 7.9990 Alpha: 9.9705 Beta: 1.2986 Gamma: -2.6655
+
+  [21/ 5/2019 09:23:28:440]: EEG Bandpower: Delta: 1.1968 Theta: 8.4990 Alpha: 11.3013 Beta: 1.7660 Gamma: -1.1883
+
+  [21/ 5/2019 09:23:29:428]: EEG Bandpower: Delta: 0.4986 Theta: 8.1491 Alpha: 10.8481 Beta: 0.8790 Gamma: -1.3231
+
+  [21/ 5/2019 09:23:30:424]: EEG Bandpower: Delta: -0.2934 Theta: 8.0586 Alpha: 10.9149 Beta: 1.9345 Gamma: -0.0894
+
+  [21/ 5/2019 09:23:31:436]: EEG Bandpower: Delta: -0.0051 Theta: 7.6088 Alpha: 10.0622 Beta: 1.8506 Gamma: -0.7763
+
+  [21/ 5/2019 09:23:32:424]: EEG Bandpower: Delta: -0.3371 Theta: 6.8773 Alpha: 10.2269 Beta: 2.8441 Gamma: -1.7247
+
+  [21/ 5/2019 09:23:33:543]: EEG Bandpower: Delta: 1.2638 Theta: 6.8569 Alpha: 7.9630 Beta: 2.5065 Gamma: -1.4743
+
+  [21/ 5/2019 09:23:34:438]: EEG Bandpower: Delta: 1.7122 Theta: 4.1770 Alpha: 5.8402 Beta: 1.9745 Gamma: -2.2426
+
+  [21/ 5/2019 09:23:35:463]: EEG Bandpower: Delta: 2.0459 Theta: 5.6928 Alpha: 5.6410 Beta: 2.4558 Gamma: -1.5544
+
+  [21/ 5/2019 09:23:36:474]: EEG Bandpower: Delta: 1.8814 Theta: 6.6757 Alpha: 5.2282 Beta: 1.9947 Gamma: -1.0753
+
+  [21/ 5/2019 09:23:37:417]: EEG Bandpower: Delta: -1.3204 Theta: 6.5941 Alpha: 2.8522 Beta: 0.8288 Gamma: -0.9180
+
+  [21/ 5/2019 09:23:38:449]: EEG Bandpower: Delta: -0.7771 Theta: 6.8422 Alpha: 3.7376 Beta: 0.7628 Gamma: -1.6470
+
+  [21/ 5/2019 09:23:39:455]: EEG Bandpower: Delta: -1.8607 Theta: 6.7028 Alpha: 2.6601 Beta: 0.1150 Gamma: -1.8194
+
+  [21/ 5/2019 09:23:40:417]: EEG Bandpower: Delta: -2.0738 Theta: 7.3314 Alpha: 3.6279 Beta: -0.0265 Gamma: -1.3429
+
+  [21/ 5/2019 09:23:41:441]: EEG Bandpower: Delta: -2.9615 Theta: 6.7070 Alpha: 3.8911 Beta: -0.1411 Gamma: -1.0106
+
+  [21/ 5/2019 09:23:42:485]: EEG Bandpower: Delta: -3.1315 Theta: 5.2720 Alpha: 3.9313 Beta: 0.0281 Gamma: -2.3876
+
+  [21/ 5/2019 09:23:43:426]: EEG Bandpower: Delta: -4.0278 Theta: 5.4429 Alpha: 3.2695 Beta: 1.3439 Gamma: -1.9682
+
+  [21/ 5/2019 09:23:44:474]: EEG Bandpower: Delta: -4.6719 Theta: 5.1460 Alpha: 5.2248 Beta: 1.1176 Gamma: -1.3963
+
+  [21/ 5/2019 09:23:45:406]: EEG Bandpower: Delta: -3.2390 Theta: 6.8758 Alpha: 5.7313 Beta: 1.2820 Gamma: -1.5020
+
+  [21/ 5/2019 09:23:46:446]: EEG Bandpower: Delta: -2.6678 Theta: 6.9321 Alpha: 5.9017 Beta: 1.2851 Gamma: -2.7167
+
+  [21/ 5/2019 09:23:47:413]: EEG Bandpower: Delta: -1.0277 Theta: 8.4167 Alpha: 6.0200 Beta: 0.4849 Gamma: -2.9330
+
+  [21/ 5/2019 09:23:48:406]: EEG Bandpower: Delta: -0.4173 Theta: 8.9066 Alpha: 5.3074 Beta: 1.8143 Gamma: -0.9235
+
+  [21/ 5/2019 09:23:49:510]: EEG Bandpower: Delta: -0.8856 Theta: 8.3151 Alpha: 4.7156 Beta: 1.7061 Gamma: -1.6577
+
+  [21/ 5/2019 09:23:50:431]: EEG Bandpower: Delta: -0.6077 Theta: 8.3774 Alpha: 5.5176 Beta: 2.7599 Gamma: -0.2221
+
+  [21/ 5/2019 09:23:51:405]: EEG Bandpower: Delta: -1.5824 Theta: 7.0504 Alpha: 4.8613 Beta: 2.2459 Gamma: 0.4486
+
+  [21/ 5/2019 09:23:52:438]: EEG Bandpower: Delta: -2.4896 Theta: 5.4102 Alpha: 3.7241 Beta: 1.4906 Gamma: 0.1881
+
+  [21/ 5/2019 09:23:53:454]: EEG Bandpower: Delta: -2.3093 Theta: 5.9135 Alpha: 5.0508 Beta: 2.7865 Gamma: 0.9662
+
+  [21/ 5/2019 09:23:54:446]: EEG Bandpower: Delta: 0.2005 Theta: 8.1601 Alpha: 7.5617 Beta: 2.1941 Gamma: 0.4942
+
+  [21/ 5/2019 09:23:55:441]: EEG Bandpower: Delta: 0.1999 Theta: 9.9007 Alpha: 7.9463 Beta: 2.2571 Gamma: 0.3356
+
+  [21/ 5/2019 09:23:56:430]: EEG Bandpower: Delta: -0.1151 Theta: 9.6437 Alpha: 8.9758 Beta: 3.2749 Gamma: 0.6413
+
+  [21/ 5/2019 09:23:57:457]: EEG Bandpower: Delta: 2.5815 Theta: 9.5897 Alpha: 9.3570 Beta: 2.6079 Gamma: 0.0154
+
+  [21/ 5/2019 09:23:58:420]: EEG Bandpower: Delta: 4.3084 Theta: 9.6647 Alpha: 8.5964 Beta: 1.6056 Gamma: -1.5297
+
+  [21/ 5/2019 09:23:59:402]: EEG Bandpower: Delta: 4.0183 Theta: 9.7762 Alpha: 10.5728 Beta: 2.1663 Gamma: -1.6180
+
+  [21/ 5/2019 09:24:00:432]: EEG Bandpower: Delta: 4.5929 Theta: 8.0941 Alpha: 9.4129 Beta: 1.1999 Gamma: -2.3343
+
+  [21/ 5/2019 09:24:01:402]: EEG Bandpower: Delta: 4.3475 Theta: 8.0856 Alpha: 8.4632 Beta: 0.4393 Gamma: -2.8045
+
+  [21/ 5/2019 09:24:02:464]: EEG Bandpower: Delta: 2.4974 Theta: 7.0375 Alpha: 8.6886 Beta: 0.1989 Gamma: -3.0681
+
+  [21/ 5/2019 09:24:03:417]: EEG Bandpower: Delta: 0.5450 Theta: 6.2411 Alpha: 4.6429 Beta: -1.1152 Gamma: -3.5298
+
+  [21/ 5/2019 09:24:04:438]: EEG Bandpower: Delta: 2.1224 Theta: 4.8588 Alpha: 4.3427 Beta: -0.9721 Gamma: -3.8243
+
+  [21/ 5/2019 09:24:05:454]: EEG Bandpower: Delta: 2.8637 Theta: 5.6338 Alpha: 4.6757 Beta: -0.7430 Gamma: -2.6144
+
+  [21/ 5/2019 09:24:06:405]: EEG Bandpower: Delta: 2.9981 Theta: 5.8722 Alpha: 4.2133 Beta: -0.6529 Gamma: -2.8470
+
+  [21/ 5/2019 09:24:07:421]: EEG Bandpower: Delta: 2.1061 Theta: 5.6739 Alpha: 4.4990 Beta: -0.9329 Gamma: -3.7548
+
+  [21/ 5/2019 09:24:08:410]: EEG Bandpower: Delta: 1.4486 Theta: 5.8441 Alpha: 4.1388 Beta: -1.0260 Gamma: -4.2655
+
+  [21/ 5/2019 09:24:09:455]: EEG Bandpower: Delta: -0.6629 Theta: 7.0621 Alpha: 4.1461 Beta: -0.9059 Gamma: -3.9043
+
+  [21/ 5/2019 09:24:10:422]: EEG Bandpower: Delta: 1.6177 Theta: 8.1550 Alpha: 7.2503 Beta: 1.0357 Gamma: -0.8590
+
+  [21/ 5/2019 09:24:11:424]: EEG Bandpower: Delta: 2.2566 Theta: 8.6233 Alpha: 6.9411 Beta: 1.7663 Gamma: -0.0774
+
+  [21/ 5/2019 09:24:12:420]: EEG Bandpower: Delta: 2.7759 Theta: 9.5504 Alpha: 7.1566 Beta: 2.4022 Gamma: 0.7814
+
+  [21/ 5/2019 09:24:13:401]: EEG Bandpower: Delta: 4.9182 Theta: 10.5749 Alpha: 7.2790 Beta: 3.1683 Gamma: 2.2788
+
+  [21/ 5/2019 09:24:14:428]: EEG Bandpower: Delta: 4.5072 Theta: 9.3112 Alpha: 7.4991 Beta: 3.7804 Gamma: 2.5084
+
+  [21/ 5/2019 09:24:15:435]: EEG Bandpower: Delta: 4.1326 Theta: 10.3504 Alpha: 7.4900 Beta: 3.3468 Gamma: 2.4437
+
+  [21/ 5/2019 09:24:16:402]: EEG Bandpower: Delta: 4.2887 Theta: 11.4168 Alpha: 10.0543 Beta: 4.4012 Gamma: 2.9188
+
+  [21/ 5/2019 09:24:17:446]: EEG Bandpower: Delta: 4.4816 Theta: 12.0050 Alpha: 11.3404 Beta: 5.1024 Gamma: 3.1861
+
+  [21/ 5/2019 09:24:18:434]: EEG Bandpower: Delta: 2.9967 Theta: 12.2188 Alpha: 11.3340 Beta: 5.1280 Gamma: 2.0064
+
+  [21/ 5/2019 09:24:19:435]: EEG Bandpower: Delta: 1.9317 Theta: 12.4054 Alpha: 10.4302 Beta: 4.4970 Gamma: 0.7752
+
+  [21/ 5/2019 09:24:20:415]: EEG Bandpower: Delta: 2.9614 Theta: 12.2940 Alpha: 10.7145 Beta: 3.8528 Gamma: -1.0580
+
+  [21/ 5/2019 09:24:21:469]: EEG Bandpower: Delta: 3.1409 Theta: 11.5277 Alpha: 9.5058 Beta: 3.2897 Gamma: -1.4163
+
+  [21/ 5/2019 09:24:22:452]: EEG Bandpower: Delta: 3.2168 Theta: 10.6717 Alpha: 9.5459 Beta: 2.7783 Gamma: -2.0478
+
+  [21/ 5/2019 09:24:23:434]: EEG Bandpower: Delta: 3.3765 Theta: 10.1162 Alpha: 10.1176 Beta: 2.7915 Gamma: -2.2578
+
+  [21/ 5/2019 09:24:24:405]: EEG Bandpower: Delta: 3.6446 Theta: 9.9421 Alpha: 9.5864 Beta: 1.9660 Gamma: -2.2790
+
+  [21/ 5/2019 09:24:25:412]: EEG Bandpower: Delta: 4.0386 Theta: 9.5222 Alpha: 8.7437 Beta: 1.7282 Gamma: -3.0889
+
+  [21/ 5/2019 09:24:26:436]: EEG Bandpower: Delta: 5.6700 Theta: 10.1043 Alpha: 8.5977 Beta: 1.5111 Gamma: -3.6744
+
+  [21/ 5/2019 09:24:27:452]: EEG Bandpower: Delta: 5.2102 Theta: 10.2376 Alpha: 8.7829 Beta: 1.9770 Gamma: -3.2112
+
+  [21/ 5/2019 09:24:28:426]: EEG Bandpower: Delta: 5.6502 Theta: 11.1949 Alpha: 9.9984 Beta: 2.1045 Gamma: -2.5841
+
+  [21/ 5/2019 09:24:29:451]: EEG Bandpower: Delta: 5.1037 Theta: 10.6249 Alpha: 11.1824 Beta: 2.1357 Gamma: -2.5849
+
+  [21/ 5/2019 09:24:30:469]: EEG Bandpower: Delta: 4.0554 Theta: 10.3439 Alpha: 10.6743 Beta: 1.8483 Gamma: -1.5891
+
+  [21/ 5/2019 09:24:31:462]: EEG Bandpower: Delta: 1.6682 Theta: 9.8235 Alpha: 10.3703 Beta: 1.8746 Gamma: -2.0237
+
+  [21/ 5/2019 09:24:32:431]: EEG Bandpower: Delta: 1.8981 Theta: 10.0085 Alpha: 10.3083 Beta: 1.6688 Gamma: -0.7961
+
+  [21/ 5/2019 09:24:33:463]: EEG Bandpower: Delta: 0.4945 Theta: 9.2021 Alpha: 8.8019 Beta: 1.3393 Gamma: -0.2135
+
+  [21/ 5/2019 09:24:34:403]: EEG Bandpower: Delta: 0.2021 Theta: 9.6215 Alpha: 7.4722 Beta: 1.9730 Gamma: -0.4228
+
+  [21/ 5/2019 09:24:35:410]: EEG Bandpower: Delta: -0.8039 Theta: 7.8207 Alpha: 5.5851 Beta: 0.8285 Gamma: -1.0217
+
+  [21/ 5/2019 09:24:36:433]: EEG Bandpower: Delta: -2.6822 Theta: 7.1111 Alpha: 5.7838 Beta: 1.8562 Gamma: -1.2912
+
+  [21/ 5/2019 09:24:37:507]: EEG Bandpower: Delta: -1.2595 Theta: 7.3250 Alpha: 6.7292 Beta: 3.2905 Gamma: -0.1142
+
+  [21/ 5/2019 09:24:38:438]: EEG Bandpower: Delta: -0.4964 Theta: 6.7563 Alpha: 7.1107 Beta: 3.4047 Gamma: 0.0252
+
+  [21/ 5/2019 09:24:39:444]: EEG Bandpower: Delta: 0.6434 Theta: 5.3209 Alpha: 6.4298 Beta: 2.6483 Gamma: -0.6295
+
+  [21/ 5/2019 09:24:40:448]: EEG Bandpower: Delta: 1.1488 Theta: 6.0796 Alpha: 6.7323 Beta: 2.9764 Gamma: -0.2227
+
+  [21/ 5/2019 09:24:41:417]: EEG Bandpower: Delta: 1.2546 Theta: 6.1491 Alpha: 6.0314 Beta: 2.1514 Gamma: -1.0550
+
+  [21/ 5/2019 09:24:42:417]: EEG Bandpower: Delta: 0.1260 Theta: 7.7100 Alpha: 5.5156 Beta: 2.3866 Gamma: -1.8075
+
+  [21/ 5/2019 09:24:43:399]: EEG Bandpower: Delta: -0.7330 Theta: 8.8901 Alpha: 5.9240 Beta: 2.4828 Gamma: -1.7010
+
+  [21/ 5/2019 09:24:44:437]: EEG Bandpower: Delta: -2.4367 Theta: 7.5981 Alpha: 5.1531 Beta: 1.6182 Gamma: -1.6940
+
+  [21/ 5/2019 09:24:45:446]: EEG Bandpower: Delta: -4.7869 Theta: 6.9725 Alpha: 4.0443 Beta: -0.0460 Gamma: -2.9302
+
+  [21/ 5/2019 09:24:46:435]: EEG Bandpower: Delta: -3.9711 Theta: 7.4491 Alpha: 5.1540 Beta: 0.6279 Gamma: -3.0516
+
+  [21/ 5/2019 09:24:47:468]: EEG Bandpower: Delta: -0.7797 Theta: 9.3866 Alpha: 7.2124 Beta: 2.2083 Gamma: -1.5299
+
+  [21/ 5/2019 09:24:48:468]: EEG Bandpower: Delta: -0.8306 Theta: 7.4512 Alpha: 7.1793 Beta: 1.9758 Gamma: -1.5671
+
+  [21/ 5/2019 09:24:49:435]: EEG Bandpower: Delta: 1.0156 Theta: 8.2545 Alpha: 7.6488 Beta: 2.2939 Gamma: -0.9490
+
+  [21/ 5/2019 09:24:50:452]: EEG Bandpower: Delta: 1.8453 Theta: 8.4295 Alpha: 9.0325 Beta: 2.6086 Gamma: -1.0994
+
+  [21/ 5/2019 09:24:51:423]: EEG Bandpower: Delta: 0.9999 Theta: 6.9611 Alpha: 9.5846 Beta: 1.9416 Gamma: -2.1688
+
+  [21/ 5/2019 09:24:52:434]: EEG Bandpower: Delta: 1.4258 Theta: 6.6478 Alpha: 10.3051 Beta: 1.5502 Gamma: -1.2015
+
+  [21/ 5/2019 09:24:53:452]: EEG Bandpower: Delta: 1.2852 Theta: 7.6895 Alpha: 10.4819 Beta: 1.8819 Gamma: -0.3803
+
+  [21/ 5/2019 09:24:54:453]: EEG Bandpower: Delta: -0.3466 Theta: 9.1475 Alpha: 10.6332 Beta: 1.8738 Gamma: -0.6219
+
+  [21/ 5/2019 09:24:55:424]: EEG Bandpower: Delta: -0.9398 Theta: 9.3404 Alpha: 11.0635 Beta: 1.8907 Gamma: -1.1167
+
+  [21/ 5/2019 09:24:56:491]: EEG Bandpower: Delta: -1.0448 Theta: 9.8435 Alpha: 11.0439 Beta: 2.0200 Gamma: -1.9051
+
+  [21/ 5/2019 09:24:57:447]: EEG Bandpower: Delta: -0.6421 Theta: 9.8234 Alpha: 10.7865 Beta: 1.6222 Gamma: -3.8233
+
+  [21/ 5/2019 09:24:58:427]: EEG Bandpower: Delta: -0.2257 Theta: 9.4912 Alpha: 10.9211 Beta: 0.8619 Gamma: -3.4336
+
+  [21/ 5/2019 09:24:59:406]: EEG Bandpower: Delta: 0.4851 Theta: 9.0385 Alpha: 8.0884 Beta: -0.2121 Gamma: -2.9881
+
+  [21/ 5/2019 09:25:00:475]: EEG Bandpower: Delta: -0.5887 Theta: 7.8868 Alpha: 6.1720 Beta: -0.3918 Gamma: -2.9412
+
+  [21/ 5/2019 09:25:01:444]: EEG Bandpower: Delta: -0.8117 Theta: 7.7352 Alpha: 3.9009 Beta: -0.5265 Gamma: -2.7768
+
+  [21/ 5/2019 09:25:02:464]: EEG Bandpower: Delta: -0.0424 Theta: 6.4848 Alpha: 4.1479 Beta: -0.3044 Gamma: -3.5188
+
+  [21/ 5/2019 09:25:03:451]: EEG Bandpower: Delta: 1.3825 Theta: 4.2115 Alpha: 3.9936 Beta: 0.3720 Gamma: -3.5509
+
+  [21/ 5/2019 09:25:04:409]: EEG Bandpower: Delta: 2.9849 Theta: 6.4391 Alpha: 4.3568 Beta: 0.5886 Gamma: -3.1222
+
+  [21/ 5/2019 09:25:05:401]: EEG Bandpower: Delta: 2.9365 Theta: 6.7340 Alpha: 4.8921 Beta: 0.1666 Gamma: -2.5586
+
+  [21/ 5/2019 09:25:06:480]: EEG Bandpower: Delta: 2.5419 Theta: 6.9029 Alpha: 6.0394 Beta: 0.9007 Gamma: -2.6073
+
+  [21/ 5/2019 09:25:07:439]: EEG Bandpower: Delta: 2.2721 Theta: 7.0896 Alpha: 5.7433 Beta: 0.6694 Gamma: -3.0407
+
+  [21/ 5/2019 09:25:08:430]: EEG Bandpower: Delta: -3.5496 Theta: 6.3935 Alpha: 4.7914 Beta: 0.5240 Gamma: -2.7127
+
+  [21/ 5/2019 09:25:09:482]: EEG Bandpower: Delta: -5.2315 Theta: 4.9282 Alpha: 4.1837 Beta: 0.7245 Gamma: -2.6180
+
+  [21/ 5/2019 09:25:10:445]: EEG Bandpower: Delta: -6.2048 Theta: 4.2947 Alpha: 3.8890 Beta: -0.9367 Gamma: -3.6662
+
+  [21/ 5/2019 09:25:11:481]: EEG Bandpower: Delta: -5.9306 Theta: 3.2923 Alpha: 3.5921 Beta: -1.4171 Gamma: -4.0584
+
+  [21/ 5/2019 09:25:12:416]: EEG Bandpower: Delta: 2.0638 Theta: 5.5254 Alpha: 6.5989 Beta: 1.8888 Gamma: -2.1497
+
+  [21/ 5/2019 09:25:13:462]: EEG Bandpower: Delta: 3.9093 Theta: 7.1576 Alpha: 7.1872 Beta: 2.1030 Gamma: -1.6147
+
+  [21/ 5/2019 09:25:14:404]: EEG Bandpower: Delta: 4.1027 Theta: 9.7807 Alpha: 8.7348 Beta: 3.7211 Gamma: 0.3530
+
+  [21/ 5/2019 09:25:15:421]: EEG Bandpower: Delta: 4.0756 Theta: 10.3054 Alpha: 9.3539 Beta: 4.4655 Gamma: 0.6099
+
+  [21/ 5/2019 09:25:16:420]: EEG Bandpower: Delta: 2.5711 Theta: 9.2007 Alpha: 9.3612 Beta: 3.3856 Gamma: 0.1173
+
+  [21/ 5/2019 09:25:17:402]: EEG Bandpower: Delta: 0.7048 Theta: 8.5727 Alpha: 7.9057 Beta: 2.3700 Gamma: -0.4565
+
+  [21/ 5/2019 09:25:18:468]: EEG Bandpower: Delta: -2.2078 Theta: 8.5028 Alpha: 6.1936 Beta: 2.4979 Gamma: -1.3917
+
+  [21/ 5/2019 09:25:19:419]: EEG Bandpower: Delta: -2.3923 Theta: 6.0783 Alpha: 4.8725 Beta: 1.2892 Gamma: -3.9900
+
+  [21/ 5/2019 09:25:20:415]: EEG Bandpower: Delta: -0.9441 Theta: 7.0436 Alpha: 4.6893 Beta: 1.3013 Gamma: -3.1509
+
+  [21/ 5/2019 09:25:21:480]: EEG Bandpower: Delta: 0.8829 Theta: 7.7853 Alpha: 4.1893 Beta: 1.8148 Gamma: -1.9809
+
+  [21/ 5/2019 09:25:22:418]: EEG Bandpower: Delta: 0.9745 Theta: 6.5543 Alpha: 5.1788 Beta: 0.4497 Gamma: -0.8262
+
+  [21/ 5/2019 09:25:23:435]: EEG Bandpower: Delta: 0.6469 Theta: 9.4838 Alpha: 7.0950 Beta: 2.1472 Gamma: -0.1044
+
+  [21/ 5/2019 09:25:24:411]: EEG Bandpower: Delta: 0.4328 Theta: 9.3376 Alpha: 8.1880 Beta: 2.6302 Gamma: -0.4705
+
+  [21/ 5/2019 09:25:25:451]: EEG Bandpower: Delta: -1.4454 Theta: 9.0519 Alpha: 8.8083 Beta: 2.1006 Gamma: -0.5248
+
+  [21/ 5/2019 09:25:26:468]: EEG Bandpower: Delta: -2.1480 Theta: 8.8137 Alpha: 8.9303 Beta: 2.5189 Gamma: -0.7409
+
+  [21/ 5/2019 09:25:27:406]: EEG Bandpower: Delta: -2.3056 Theta: 6.6557 Alpha: 8.0411 Beta: 1.1150 Gamma: -2.4822
+
+  [21/ 5/2019 09:25:28:440]: EEG Bandpower: Delta: -1.4872 Theta: 8.6821 Alpha: 6.7874 Beta: 1.6657 Gamma: -2.0464
+
+  [21/ 5/2019 09:25:29:446]: EEG Bandpower: Delta: -2.7210 Theta: 7.3913 Alpha: 4.1554 Beta: 0.6678 Gamma: -3.2362
+
+  [21/ 5/2019 09:25:30:400]: EEG Bandpower: Delta: -1.8656 Theta: 8.7599 Alpha: 4.6360 Beta: 1.7845 Gamma: -2.4590
+
+  [21/ 5/2019 09:25:31:443]: EEG Bandpower: Delta: 1.0943 Theta: 9.5722 Alpha: 4.7430 Beta: 1.9807 Gamma: -1.6908
+
+  [21/ 5/2019 09:25:32:438]: EEG Bandpower: Delta: 1.9127 Theta: 9.5832 Alpha: 5.1518 Beta: 1.8325 Gamma: -1.4573
+
+  [21/ 5/2019 09:25:33:418]: EEG Bandpower: Delta: 1.9771 Theta: 8.7525 Alpha: 6.3867 Beta: 1.6563 Gamma: -0.4681
+
+  [21/ 5/2019 09:25:34:438]: EEG Bandpower: Delta: 2.5416 Theta: 9.7534 Alpha: 7.2009 Beta: 2.0548 Gamma: -0.2956
+
+  [21/ 5/2019 09:25:35:400]: EEG Bandpower: Delta: 1.4919 Theta: 9.1731 Alpha: 6.4723 Beta: 1.8323 Gamma: -0.1619
+
+  [21/ 5/2019 09:25:36:398]: EEG Bandpower: Delta: -2.4843 Theta: 8.8933 Alpha: 6.2387 Beta: 1.9431 Gamma: -0.2276
+
+  [21/ 5/2019 09:25:37:437]: EEG Bandpower: Delta: -0.4571 Theta: 9.0161 Alpha: 6.6437 Beta: 2.6864 Gamma: -0.8365
+
+  [21/ 5/2019 09:25:38:449]: EEG Bandpower: Delta: 2.6827 Theta: 9.5900 Alpha: 6.3341 Beta: 2.6037 Gamma: -0.5992
+
+  [21/ 5/2019 09:25:39:450]: EEG Bandpower: Delta: 2.5106 Theta: 8.1295 Alpha: 6.4814 Beta: 2.7229 Gamma: -0.9385
+
+  [21/ 5/2019 09:25:40:439]: EEG Bandpower: Delta: 3.3901 Theta: 8.0704 Alpha: 6.7724 Beta: 3.2593 Gamma: 0.4256
+
+  [21/ 5/2019 09:25:41:454]: EEG Bandpower: Delta: 3.9512 Theta: 9.5817 Alpha: 6.0301 Beta: 2.2715 Gamma: 0.3619
+
+  [21/ 5/2019 09:25:42:437]: EEG Bandpower: Delta: 3.1790 Theta: 8.3026 Alpha: 6.1421 Beta: 2.2515 Gamma: -0.4424
+
+  [21/ 5/2019 09:25:43:410]: EEG Bandpower: Delta: 2.1431 Theta: 7.8478 Alpha: 6.6486 Beta: 3.0433 Gamma: -0.6060
+
+  [21/ 5/2019 09:25:44:425]: EEG Bandpower: Delta: 0.9398 Theta: 7.7053 Alpha: 5.5911 Beta: 1.1922 Gamma: -1.0393
+
+  [21/ 5/2019 09:25:45:421]: EEG Bandpower: Delta: 1.3618 Theta: 7.7779 Alpha: 6.4295 Beta: 1.8700 Gamma: -0.9340
+
+  [21/ 5/2019 09:25:46:401]: EEG Bandpower: Delta: -2.1636 Theta: 4.0660 Alpha: 6.5713 Beta: 1.0252 Gamma: -0.9983
+
+  [21/ 5/2019 09:25:47:478]: EEG Bandpower: Delta: -1.6110 Theta: 5.1374 Alpha: 6.3820 Beta: 2.0318 Gamma: -0.7114
+
+  [21/ 5/2019 09:25:48:438]: EEG Bandpower: Delta: -0.6700 Theta: 8.6263 Alpha: 6.1307 Beta: 2.7997 Gamma: 0.3953
+
+  [21/ 5/2019 09:25:49:459]: EEG Bandpower: Delta: 0.8081 Theta: 9.4178 Alpha: 7.2121 Beta: 4.0883 Gamma: 1.6315
+
+  [21/ 5/2019 09:25:50:509]: EEG Bandpower: Delta: 0.6508 Theta: 8.5885 Alpha: 8.6146 Beta: 4.0466 Gamma: 2.0914
+
+  [21/ 5/2019 09:25:51:448]: EEG Bandpower: Delta: 1.0994 Theta: 9.0500 Alpha: 9.1736 Beta: 4.8118 Gamma: 2.6373
+
+  [21/ 5/2019 09:25:52:443]: EEG Bandpower: Delta: 1.3407 Theta: 8.2668 Alpha: 8.5078 Beta: 4.5548 Gamma: 2.5211
+
+  [21/ 5/2019 09:25:53:432]: EEG Bandpower: Delta: 1.2281 Theta: 7.9319 Alpha: 8.3609 Beta: 3.7694 Gamma: 1.2539
+
+  [21/ 5/2019 09:25:54:468]: EEG Bandpower: Delta: 0.7232 Theta: 6.2243 Alpha: 7.7405 Beta: 3.1714 Gamma: 1.2009
+
+  [21/ 5/2019 09:25:55:425]: EEG Bandpower: Delta: 0.3358 Theta: 5.9660 Alpha: 3.5068 Beta: 1.3389 Gamma: -1.1226
+
+  [21/ 5/2019 09:25:56:399]: EEG Bandpower: Delta: -0.2027 Theta: 5.6607 Alpha: 4.1496 Beta: 1.6838 Gamma: -1.1370
+
+  [21/ 5/2019 09:25:57:467]: EEG Bandpower: Delta: -0.5223 Theta: 7.0857 Alpha: 4.5491 Beta: 1.2084 Gamma: -0.4789
+
+  [21/ 5/2019 09:25:58:424]: EEG Bandpower: Delta: -3.5274 Theta: 6.7105 Alpha: 3.8095 Beta: 0.6633 Gamma: -1.8938
+
+  [21/ 5/2019 09:25:59:424]: EEG Bandpower: Delta: -1.1816 Theta: 7.1911 Alpha: 5.3950 Beta: 1.8719 Gamma: -0.8198
+
+  [21/ 5/2019 09:26:00:468]: EEG Bandpower: Delta: -0.3135 Theta: 7.7890 Alpha: 5.7416 Beta: 2.0529 Gamma: -0.1971
+
+  [21/ 5/2019 09:26:01:436]: EEG Bandpower: Delta: -0.4726 Theta: 8.8424 Alpha: 6.7816 Beta: 2.7901 Gamma: 0.8594
+
+  [21/ 5/2019 09:26:02:425]: EEG Bandpower: Delta: 0.1748 Theta: 9.5419 Alpha: 9.5880 Beta: 3.2787 Gamma: -0.0209
+
+  [21/ 5/2019 09:26:03:440]: EEG Bandpower: Delta: 1.1196 Theta: 10.4769 Alpha: 11.5152 Beta: 3.2784 Gamma: 0.6059
+
+  [21/ 5/2019 09:26:04:413]: EEG Bandpower: Delta: 0.4169 Theta: 9.2553 Alpha: 11.3053 Beta: 3.3029 Gamma: -0.7781
+
+  [21/ 5/2019 09:26:05:433]: EEG Bandpower: Delta: 3.9968 Theta: 8.1939 Alpha: 11.3264 Beta: 3.0824 Gamma: -2.7709
+
+  [21/ 5/2019 09:26:06:424]: EEG Bandpower: Delta: 4.2231 Theta: 8.9429 Alpha: 10.8997 Beta: 1.7357 Gamma: -3.0506
+
+  [21/ 5/2019 09:26:07:396]: EEG Bandpower: Delta: 4.6724 Theta: 9.8312 Alpha: 10.4135 Beta: 1.8866 Gamma: -2.7884
+
+  [21/ 5/2019 09:26:08:394]: EEG Bandpower: Delta: 4.2286 Theta: 9.5171 Alpha: 9.2815 Beta: 1.7095 Gamma: -0.3689
+
+  [21/ 5/2019 09:26:09:435]: EEG Bandpower: Delta: 3.5527 Theta: 9.2073 Alpha: 8.6356 Beta: 1.6386 Gamma: -0.2556
+
+  [21/ 5/2019 09:26:10:435]: EEG Bandpower: Delta: 0.3777 Theta: 8.7537 Alpha: 8.6811 Beta: 1.5065 Gamma: -0.0294
+
+  [21/ 5/2019 09:26:11:425]: EEG Bandpower: Delta: -1.9223 Theta: 6.8299 Alpha: 9.2282 Beta: 1.4308 Gamma: 0.0168
+
+  [21/ 5/2019 09:26:12:544]: EEG Bandpower: Delta: -2.4468 Theta: 6.5514 Alpha: 9.1878 Beta: -0.0986 Gamma: -2.2204
+
+  [21/ 5/2019 09:26:13:480]: EEG Bandpower: Delta: -0.6820 Theta: 8.5447 Alpha: 8.8117 Beta: -0.7252 Gamma: -2.7930
+
+  [21/ 5/2019 09:26:14:429]: EEG Bandpower: Delta: 1.5630 Theta: 8.8254 Alpha: 7.6980 Beta: -0.8369 Gamma: -2.7673
+
+  [21/ 5/2019 09:26:15:430]: EEG Bandpower: Delta: 3.5598 Theta: 9.7423 Alpha: 8.3256 Beta: -0.4579 Gamma: -2.6348
+
+  [21/ 5/2019 09:26:16:407]: EEG Bandpower: Delta: 3.6597 Theta: 10.6125 Alpha: 10.4853 Beta: 0.4825 Gamma: -2.5398
+
+  [21/ 5/2019 09:26:17:399]: EEG Bandpower: Delta: 3.5377 Theta: 10.4541 Alpha: 10.8319 Beta: 1.0495 Gamma: -2.5845
+
+  [21/ 5/2019 09:26:18:401]: EEG Bandpower: Delta: 3.2242 Theta: 9.9035 Alpha: 11.2841 Beta: 1.5910 Gamma: -2.9519
+
+  [21/ 5/2019 09:26:19:439]: EEG Bandpower: Delta: 0.1615 Theta: 9.2703 Alpha: 11.1460 Beta: 1.6319 Gamma: -3.4514
+
+  [21/ 5/2019 09:26:20:404]: EEG Bandpower: Delta: 1.4392 Theta: 9.1069 Alpha: 9.9853 Beta: 1.0293 Gamma: -2.8844
+
+  [21/ 5/2019 09:26:21:472]: EEG Bandpower: Delta: 2.1476 Theta: 9.5035 Alpha: 8.2837 Beta: 1.0019 Gamma: -2.6981
+
+  [21/ 5/2019 09:26:22:428]: EEG Bandpower: Delta: 2.5096 Theta: 8.6388 Alpha: 6.9731 Beta: 0.2797 Gamma: -3.2119
+
+  [21/ 5/2019 09:26:23:438]: EEG Bandpower: Delta: 1.5244 Theta: 8.8224 Alpha: 6.3672 Beta: -0.0613 Gamma: -3.7544
+
+  [21/ 5/2019 09:26:24:425]: EEG Bandpower: Delta: 2.4833 Theta: 9.0728 Alpha: 6.3323 Beta: 0.1891 Gamma: -2.4010
+
+  [21/ 5/2019 09:26:25:439]: EEG Bandpower: Delta: 2.8576 Theta: 8.5859 Alpha: 6.5388 Beta: -0.6534 Gamma: -2.2173
+
+  [21/ 5/2019 09:26:26:444]: EEG Bandpower: Delta: 2.8275 Theta: 7.9681 Alpha: 7.8949 Beta: 0.0749 Gamma: -1.0626
+
+  [21/ 5/2019 09:26:27:423]: EEG Bandpower: Delta: 2.5817 Theta: 8.8845 Alpha: 7.9134 Beta: 0.8175 Gamma: -0.5576
+
+  [21/ 5/2019 09:26:28:507]: EEG Bandpower: Delta: 3.3328 Theta: 9.5322 Alpha: 9.4762 Beta: 1.7868 Gamma: -0.2228
+
+  [21/ 5/2019 09:26:29:500]: EEG Bandpower: Delta: 3.0957 Theta: 9.8468 Alpha: 9.6864 Beta: 1.7171 Gamma: -0.9134
+
+  [21/ 5/2019 09:26:30:456]: EEG Bandpower: Delta: 2.8098 Theta: 9.2338 Alpha: 9.4036 Beta: 0.8887 Gamma: -1.9597
+
+  [21/ 5/2019 09:26:31:429]: EEG Bandpower: Delta: 2.7849 Theta: 7.7072 Alpha: 7.5944 Beta: 0.2028 Gamma: -2.8869
+
+  [21/ 5/2019 09:26:32:447]: E
