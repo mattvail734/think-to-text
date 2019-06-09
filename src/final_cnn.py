@@ -25,6 +25,9 @@ from keras.layers.convolutional import Conv2D
 from keras.layers.convolutional import MaxPooling2D
 import data_augmentation
 
+import matplotlib.pyplot as plt
+import matrix_plot
+
 seed = 8
 np.random.seed(seed)
 
@@ -76,23 +79,23 @@ for i in range(0,Y4.shape[0],48):
         Y4[96:] = Y4[96:]*2
 
 		
-X_aug_1, Y_aug_1 = data_augmentation.get_augmented_input_1()
-X_aug_2, Y_aug_2 = data_augmentation.get_augmented_input_2()
-X_aug_3, Y_aug_3 = data_augmentation.get_augmented_input_3()
-X_aug_4, Y_aug_4 = data_augmentation.get_augmented_input_4()
+#X_aug_1, Y_aug_1 = data_augmentation.get_augmented_input_1()
+#X_aug_2, Y_aug_2 = data_augmentation.get_augmented_input_2()
+#X_aug_3, Y_aug_3 = data_augmentation.get_augmented_input_3()
+#X_aug_4, Y_aug_4 = data_augmentation.get_augmented_input_4()
 
-Y_o = np.vstack([Y1, Y2, Y3, Y4])
-Y = np.vstack([Y_o, Y_aug_1, Y_aug_2, Y_aug_3, Y_aug_4]).reshape((2832))
+Y = np.vstack([Y1, Y2, Y3, Y4])
+#Y = np.vstack([Y_o, Y_aug_1, Y_aug_2, Y_aug_3, Y_aug_4]).reshape((2832))
 #print(Y)
-X_input_o = np.vstack([input1, input2, input3, input4])
-print(X_input_o.shape)
-X_input = np.vstack([X_input_o, X_aug_1, X_aug_2, X_aug_3, X_aug_4])
-print(X_input.shape)
+X_input = np.vstack([input1, input2, input3, input4])
+#print(X_input_o.shape)
+#X_input = np.vstack([X_input_o, X_aug_1, X_aug_2, X_aug_3, X_aug_4])
+#print(X_input.shape)
 #X_input_n = np.vstack([input1_n, input2_n, input3_n, input4_n])
 
 #X = X_input_n.reshape((576,5,5))
 #X = X_input.reshape((576,5,5))
-X_norm = feature_normalize(X_input).reshape((2832,5,5))
+X_norm = feature_normalize(X_input).reshape((576,5,5))
 X = X_norm
 
 Y_c = np_utils.to_categorical(Y, 3)
@@ -105,16 +108,16 @@ x_test, x_dev, y_test, y_dev = train_test_split(x_val, y_val, test_size=0.5, ran
 # Create the network
 model = Sequential()
 
-model.add(Conv1D(64, 3, strides=1, padding='same', activation='relu', input_shape=(5, 5)))
+model.add(Conv1D(16, 3, strides=2, padding='same', activation='relu', input_shape=(5, 5)))
 model.add(Dropout(0.2))
 #model.add(BatchNormalization())
 #model.add(MaxPooling1D(2))
 
-model.add(Conv1D(32, 2, strides=1, padding='same', activation='relu'))
+model.add(Conv1D(32, 2, strides=2, padding='same', activation='relu'))
 model.add(Dropout(0.1))
 #model.add(MaxPooling1D(2))
 
-model.add(Conv1D(16, 2, strides=1, padding='same', activation='relu'))
+model.add(Conv1D(64, 2, strides=1, padding='same', activation='relu'))
 model.add(Dropout(0.2))
 #model.add(MaxPooling1D(2))
 
@@ -135,13 +138,13 @@ model.compile(loss='categorical_crossentropy',
               metrics=['accuracy'])
 
 # Train and save results for later plotting
-history = model.fit(x_train, y_train, batch_size=16, epochs=EPOCHS, validation_data=(x_dev,y_dev))
+history = model.fit(x_train, y_train, batch_size=8, epochs=EPOCHS, validation_data=(x_dev,y_dev))
 print(history.history.keys())
 
 # summarize history for accuracy
 plt.plot(history.history['acc'])
 plt.plot(history.history['val_acc'])
-plt.title('5x5 Input Model Accuracy')
+plt.title('CNN Accuracy on Original Data')
 plt.ylabel('Accuracy')
 plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
@@ -149,7 +152,7 @@ plt.show()
 # summarize history for loss
 plt.plot(history.history['loss'])
 plt.plot(history.history['val_loss'])
-plt.title('5x5 Input Model Loss')
+plt.title('CNN Loss on Original Data')
 plt.ylabel('Loss')
 plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
@@ -158,3 +161,9 @@ plt.show()
 y_predict = model.predict_classes(x_test)
 for i in range(y_predict.shape[0]):
     print("predicted Y: ", y_predict[i], " expected Y: ", np.argmax(y_test[i]))
+	
+class_names = ['eye','man','hand']
+matrix_plot.plot_confusion_matrix(np.argmax(y_test, axis=1), y_predict, classes=class_names, normalize=True,
+                      title='CNN Confusion Matrix on Original Data')
+
+plt.show()

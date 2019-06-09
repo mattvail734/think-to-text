@@ -1,0 +1,103 @@
+from sklearn import datasets 
+from sklearn.metrics import confusion_matrix 
+from sklearn.model_selection import train_test_split
+
+from sklearn.tree import DecisionTreeClassifier 
+from sklearn.preprocessing import LabelEncoder
+from keras.utils import np_utils
+
+import pandas as pd 
+import numpy as np
+import matrix_plot
+
+import matplotlib.pyplot as plt
+
+from sklearn.svm import SVC 
+
+seed = 8
+np.random.seed(seed)
+
+def feature_normalize(dataset):
+    return (dataset - np.mean(dataset, axis=0))/np.std(dataset, axis=0)
+	
+df1 = pd.read_excel('data/female_session_1.xlsx',  header=None)
+input1 = df1.as_matrix()
+
+df2 = pd.read_excel('data/female_session_2.xlsx',  header=None)
+input2 = df2.as_matrix()
+
+df3 = pd.read_excel('data/male_session_1.xlsx',  header=None)
+input3 = df3.as_matrix()
+
+df4 = pd.read_excel('data/male_session_2.xlsx',  header=None)
+input4 = df4.as_matrix()
+
+Y1 = np.ones((144,1), np.float32)
+for i in range(0,Y1.shape[0],48):
+    if (i == 0):
+        Y1[0:48] = Y1[0:48]*0
+    if (i == 0):
+        Y1[96:] = Y1[96:]*2
+		
+Y2 = np.ones((144,1), np.float32)
+for i in range(0,Y2.shape[0],48):
+    if (i == 0):
+        Y2[0:48] = Y2[0:48]*0
+    if (i == 0):
+        Y2[96:] = Y2[96:]*2
+
+Y3 = np.ones((144,1), np.float32)
+for i in range(0,Y3.shape[0],48):
+    if (i == 0):
+        Y3[0:48] = Y3[0:48]*0
+    if (i == 0):
+        Y3[96:] = Y3[96:]*2
+		
+Y4 = np.ones((144,1), np.float32)
+for i in range(0,Y4.shape[0],48):
+    if (i == 0):
+        Y4[0:48] = Y4[0:48]*0
+    if (i == 0):
+        Y4[96:] = Y4[96:]*2
+
+Y = np.vstack([Y1, Y2, Y3, Y4]).reshape((576))
+
+X_input = np.vstack([input1, input2, input3, input4])
+
+X_norm = feature_normalize(X_input).reshape((576,25))
+X = X_norm
+
+class_names = ['eye','man','hand']
+
+x_train, x_val, y_train, y_val = train_test_split(X, Y, test_size=0.2, random_state=4)
+x_test, x_dev, y_test, y_dev = train_test_split(x_val, y_val, test_size=0.5, random_state=4)
+
+dtree_model = DecisionTreeClassifier(max_depth = 6).fit(x_train, y_train) 
+dtree_predictions = dtree_model.predict(x_test)
+  
+cm = confusion_matrix(y_test, dtree_predictions)
+
+# Plot normalized confusion matrix
+matrix_plot.plot_confusion_matrix(y_test, dtree_predictions, classes=class_names, normalize=True,
+                      title='Decision Tree Confusion Matrix on Original Data')
+plt.show()
+
+count = 0
+for i in range (y_test.shape[0]):
+    if y_test[i] == dtree_predictions[i]:
+        count += 1
+
+print("Train Count: ", y_train.shape)
+print("============================")
+print("Test Count: ", y_test.shape)
+print("============================")
+print("Results: ", dtree_predictions)
+print("============================")
+print("True Values: ", y_test)
+print("============================")
+print("accuracy: ", count*100/y_test.shape[0])
+print("============================")
+
+accuracy = dtree_model.score(x_train, y_train) 
+print("train accuracy: ", accuracy*100)
+print("============================")
